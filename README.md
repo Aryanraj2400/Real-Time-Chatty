@@ -1,42 +1,57 @@
-# ✨ Full Stack Realtime Chat App ✨
+<h1 align="center">Real Time Chat App 🚀</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+<p align="center">
+  <img src="Screenshot 2025-04-27 at 1.06.58 AM.png" alt="Status">
+  <img src="Screenshot 2025-04-27 at 1.17.53 AM.png" alt="License">
+</p>
 
-[Video Tutorial on Youtube](https://youtu.be/ntKkVrQqBYY)
+<p align="center">
+  ✨ A modern, real-time chat application built for seamless communication and instant messaging. ✨
+</p>
 
-Highlights:
+---
 
-- 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
-- 🎃 Authentication && Authorization with JWT
-- 👾 Real-time messaging with Socket.io
-- 🚀 Online user status
-- 👌 Global state management with Zustand
-- 🐞 Error handling both on the server and on the client
-- ⭐ At the end Deployment like a pro for FREE!
-- ⏳ And much more!
+## 🚀 Features
 
-### Setup .env file
+- ⚡ Real-time messaging (Instant delivery)
+- 🔒 Secure authentication system
+- 📱 Responsive design (Mobile + Desktop)
+- 💬 Group chats and private chats
+- 📸 Send text, images, and emojis
+- 🔔 Live typing indicators
+- 📡 Online/offline user status
 
-```js
-MONGODB_URI=...
-PORT=5001
-JWT_SECRET=...
+---
 
-CLOUDINARY_CLOUD_NAME=...
-CLOUDINARY_API_KEY=...
-CLOUDINARY_API_SECRET=...
+## 🛠️ Tech Stack
 
-NODE_ENV=development
-```
+- **Frontend:** React.js / Next.js / HTML / TailwindCSS
+- **Backend:** Node.js / Express.js / Socket.IO
+- **Database:** MongoDB / Firebase / SQL (choose based on build)
+- **Authentication:** JWT / OAuth
 
-### Build the app
+---
 
-```shell
-npm run build
-```
+## 📸 Screenshots
 
-### Start the app
+| Login Page | Chat Room |
+|:----------:|:---------:|
+| ![Login Screenshot](link-to-screenshot1) | ![Chat Screenshot](link-to-screenshot2) |
 
-```shell
-npm start
-```
+---
+
+## 🔥 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/real-time-chat-app.git
+
+# Navigate into the project folder
+cd real-time-chat-app
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+# Real-Time-Chatty
