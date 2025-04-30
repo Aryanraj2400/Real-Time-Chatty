@@ -1,8 +1,8 @@
 <h1 align="center">Real Time Chat App 🚀</h1>
 
 <p align="center">
-  <img src="Screenshot 2025-04-27 at 1.06.58 AM.png" alt="Status">
-  <img src="Screenshot 2025-04-27 at 1.17.53 AM.png" alt="License">
+  <img src="/Users/aryancodez/Desktop/Real Time Chat App/fullstack-chat-app/Login.png" alt="Status">
+  <img src="/Users/aryancodez/Desktop/Real Time Chat App/fullstack-chat-app/Screenshot 2025-04-27 at 1.17.53 AM.pnggit status" alt="License">
 </p>
 
 <p align="center">
